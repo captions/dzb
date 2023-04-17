@@ -1,21 +1,28 @@
 # 定制版应用收藏
 
-#### 完整目录
+---
+## 两个目录
 
-[点击这里查看所有 **定制版应用** ](https://github.com/captions/dzb/blob/main/0.md)
+- [**「定制版APP」目录** ](https://gitee.com/ww3w/dzb/blob/master/0.md)
+> 提供所有定制版APP的各个版本的名称和部分特点，其中还包括定制版APP推荐以及读者反馈
 
-#### 介绍
+- [**「版本拐点」目录** ](https://gitee.com/ww3w/dzb/blob/master/1.md)
+> 根据测试结果，整理出有明显特征的特定版本，并提供特征说明和下载地址
 
-- 简单理解就是特别渠道的官方APP
+**注：** 点击以上蓝色文字便可快速直达
 
-- [浅谈定制版应用](https://mp.weixin.qq.com/s/i7ADjqlF30SgoZi6cXUFOw)
+## 一点说明
 
-- [定制版应用收藏](https://mp.weixin.qq.com/s/AO4ZUeq75rUJBn3yicLXoA)
+- 「定制版APP」简单理解就是为特定机型而定制的官方APP
 
-#### 更新动态
+- [浅谈定制版应用](https://mp.weixin.qq.com/s/i7ADjqlF30SgoZi6cXUFOw)`对定制版APP的一些理解`
 
-- 请查看公众号「百分之千」
+- [定制版应用收藏](https://mp.weixin.qq.com/s/AO4ZUeq75rUJBn3yicLXoA)`对定制版APP的一些声明`
 
-#### 常见问题
+## 更新动态
+
+- 请关注微信公众号「百分之千」
+
+## 常见问题
 
 - [解决方案](https://mp.weixin.qq.com/s/ct-giDYHdF3lxh6xEkqELQ)`降级方法以及一些问题的解决方法`
