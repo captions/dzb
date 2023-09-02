@@ -3,7 +3,7 @@
 ---
 ## 两个目录
 
-- [**「定制版APP」目录** ](https://gitee.com/ww3w/dzb/blob/master/0.md)
+- [**「定制版APP」目录** ](https://github.com/captions/dzb/blob/main/0.md)
 > 提供所有定制版APP各个版本的名称和部分特点，其中还包括定制版APP推荐以及读者反馈
 
 - [**「版本拐点」目录** ](https://gitee.com/ww3w/dzb/blob/master/1.md)
