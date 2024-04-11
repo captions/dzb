@@ -5,14 +5,14 @@
 ## 两个目录
 
 - [**「定制版APP」目录** ](https://gitee.com/ww3w/dzb/blob/master/dzb.md)
-> 提供所有定制版APP各个版本的名称和部分特点，其中还包括定制版APP推荐以及读者反馈
+> 提供所有定制版 APP 各个版本的名称和部分特点，其中还包括定制版APP推荐以及读者反馈
 
 - [**「版本拐点」目录** ](https://gitee.com/ww3w/dzb/blob/master/bbk.md)
 > 根据测试结果，整理出有明显特征的特定版本，并提供特征说明和下载地址
 
 **注：** 点击以上蓝色文字便可快速直达
 
-## 几点点说明
+## 几点说明
 
 - [将 Gitee 作为主要更新渠道的说明](https://github.com/captions/dzb/blob/main/dzb.md)
 
