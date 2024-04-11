@@ -10,9 +10,9 @@
 ![阅读量](https://img.shields.io/badge/10%E4%B8%87+-%E9%98%85%E8%AF%BB%E9%87%8F-brightgreen.svg?logo=wechat&style=flat-square) ![收藏量](https://img.shields.io/badge/1.29%E4%B8%87%E6%94%B6%E8%97%8F-%E9%85%B7%E5%AE%89-brightgreen.svg?logo=android&style=flat-square) ![搜索引擎](https://img.shields.io/badge/%E7%99%BE%E5%88%86%E4%B9%8B%E5%8D%83%E5%AE%9A%E5%88%B6%E7%89%88-Search-389CFB.svg?logo=Microsoftbing&style=flat-square) ![微信搜索](https://img.shields.io/badge/%E7%99%BE%E5%88%86%E4%B9%8B%E5%8D%83-%E6%90%9C%E4%B8%80%E6%90%9C-FA5151.svg?logo=wechat&style=flat-square)
 
 
-[**「定制版APP」目录** ](https://gitee.com/ww3w/dzb/blob/master/dzb.md)
+[**「定制版APP」目录** ](https://gitee.com/ww3w/dzb/blob/master/dzb.md)`提供所有定制版APP各个版本的名称和部分特点，其中还包括定制版 APP 推荐以及读者反馈`
 
-[**「版本拐点」目录** ](https://gitee.com/ww3w/dzb/blob/master/dzb.md)
+[**「版本拐点」目录** ](https://gitee.com/ww3w/dzb/blob/master/dzb.md)`根据测试结果，整理出有明显特征的特定版本，并提供特征说明和下载地址`
 
 
 © 2020 - 长期 百分之千. Article rights reserved.
