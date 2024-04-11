@@ -12,11 +12,9 @@
 
 **注：** 点击以上蓝色文字便可快速直达
 
-## 一点说明
+## 几点点说明
 
 - [将 Gitee 作为主要更新渠道的说明](https://github.com/captions/dzb/blob/main/dzb.md)
-
-- 「定制版APP」简单理解就是为特定机型而定制的官方APP
 
 - [浅谈定制版应用](https://mp.weixin.qq.com/s/i7ADjqlF30SgoZi6cXUFOw)`对定制版APP的一些理解`
 
