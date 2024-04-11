@@ -1,6 +1,7 @@
 # 定制版应用收藏
 
 ---
+
 ## 两个目录
 
 - [**「定制版APP」目录** ](https://gitee.com/ww3w/dzb/blob/master/dzb.md)
@@ -12,6 +13,8 @@
 **注：** 点击以上蓝色文字便可快速直达
 
 ## 一点说明
+
+- [将 Gitee 作为主要更新渠道的说明](https://mp.weixin.qq.com/s/i7ADjqlF30SgoZi6cXUFOw)
 
 - 「定制版APP」简单理解就是为特定机型而定制的官方APP
 
