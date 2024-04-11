@@ -14,7 +14,7 @@
 
 ## 一点说明
 
-- [将 Gitee 作为主要更新渠道的说明](https://mp.weixin.qq.com/s/i7ADjqlF30SgoZi6cXUFOw)
+- [将 Gitee 作为主要更新渠道的说明](https://github.com/captions/dzb/blob/main/dzb.md)
 
 - 「定制版APP」简单理解就是为特定机型而定制的官方APP
 
